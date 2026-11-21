@@ -1,0 +1,4 @@
+body { background: #f4f6f9; }
+.error-box { color: #dc3545; font-weight: 600; min-height: 1.5rem; margin-bottom: 1rem; }
+.card { border: 0; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+#listBox ul, #reportBox ul { padding-inline-start: 1.2rem; margin-bottom: 0; }
